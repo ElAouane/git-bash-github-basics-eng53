@@ -1,9 +1,9 @@
 # __README__ = __GIT COMMANDS__
 
-# GIT INIT
+# __GIT INIT__
 
-# GIT STATUS
+# __GIT STATUS__
 
-# GIT ADD
+# __GIT ADD__
 
-# GIT COMMIT -m 'messsage'
+# __GIT COMMIT -m 'messsage'__
