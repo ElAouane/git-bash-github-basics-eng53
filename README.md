@@ -3,3 +3,5 @@
 # GIT INIT
 
 # GIT STATUS
+
+# GIT ADD
